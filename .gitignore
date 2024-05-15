@@ -1,2 +1,4 @@
-node_modules
-__pokeapi_crawler
+.DS_Store
+node_modules/
+__pokeapi_crawler/
+.env
