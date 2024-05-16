@@ -1,6 +1,6 @@
 # Nodejs-Pokedex
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ValmirBP/mystore_website_v2/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ValmirBP/NodeJs-Pokedex/blob/main/LICENSE)
 
 ## About:
 
@@ -37,6 +37,9 @@ This is a projeck  to show the skills using Pu node js and mongoDB and  using  a
 - JavaScript
 - NodeJS
 
+### INTEGRATION
+- MongoDB
+  
 ## Requirements
 
 Before you begin, ensure you have met the following requirements:
@@ -48,7 +51,7 @@ Before you begin, ensure you have met the following requirements:
 
 Follow these steps to get your development environment set up:
 
-1. fork the repository:
+1. Fork the repository:
 
 ```bash
  git clone https://github.com/ValmirBP/NodeJs-Pokedex.git
@@ -61,7 +64,7 @@ Follow these steps to get your development environment set up:
 
 3. Usage
 
-once  previous  steps  were cpmleted  run 
+Once previous  steps  were completed run
 
 ```bash
 npm  start
