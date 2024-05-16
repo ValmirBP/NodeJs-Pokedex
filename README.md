@@ -69,3 +69,8 @@ Once previous  steps  were completed run
 ```bash
 npm  start
 ```
+
+## Project Ended
+
+![Screenshot 2024-05-16 115427](https://github.com/ValmirBP/NodeJs-Pokedex/assets/48802923/4725a73a-5ff7-4a54-90b0-8f75ec8575b8)
+
